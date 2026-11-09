@@ -22,4 +22,3 @@ Ingeniería de Prompt: Redacta el System Prompt optimizado. Recuerda que el cana
 
 ###  5)Análisis de Escalabilidad 
 Respondé en 3-4 líneas: si el volumen de mensajes se multiplicara por 10, ¿tu decisión del punto 2 se sostiene? Indicá qué cambiarías en la arquitectura (local vs. nube) o en el flujo para sostener costo, privacidad y tiempos de respuesta.
-Formato de entrega
